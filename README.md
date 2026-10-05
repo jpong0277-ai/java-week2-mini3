@@ -1,1 +1,1 @@
-# java-week2-mini3
+# 115_1_Java_Week2_Ch3_HW_Mini3_Assembly
